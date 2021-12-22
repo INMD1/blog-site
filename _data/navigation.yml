@@ -3,8 +3,8 @@ main:
    - title: "about"
      url: /about/
 
-   - title: "Post"
-     url: /categories/
+   - title: "Blog"
+     url: categories/blog/
 
-   - title: "code"
-     url: /tags/
+   - title: "Project"
+     url:  categories/project/
