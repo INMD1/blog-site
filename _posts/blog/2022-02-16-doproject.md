@@ -17,7 +17,7 @@ categories: blog
 하지만 그려고 3학년 모든걸 다하고 고등학교 가기전 기가수업을 했는데 거기서 앱인벤터라는 블록코딩을 알려주는 것입니다. 그래서 집에 와서 앱인벤터를 해보고 사이트를 제작하는 방법을 얻으면서 저는 개발자라는 꿈을 같기로 시작했습니다.
 
 # 2.내가 오픈소스를 만드는 이유
-![image](https://raw.githubusercontent.com/INMD1/blog-site/main/_posts/blog/img/yancy-min-842ofHC6MaI-unsplash.jpg")
+![image](https://raw.githubusercontent.com/INMD1/blog-site/main/_posts/blog/img/yancy-min-842ofHC6MaI-unsplash.jpg)
 ## 오픈소스의 첫경험
 고등학교에 들어오면서 앱 인벤터를 가지고 다른 걸 만들고 있는데 이때 저는 디스코드를 접하면서 봇이라는 것을 처음 알게 되었습니다. 그래서 저는 한번 제작하고 싶어서 무작정 컴퓨터를 켰는데 문득 저는 이걸 만드는 방법을 모르는 것입니다. 그래서 여러곳을 찾다가 깃허브를 알게 되었고 디스코드 API 오픈 프로젝트인 discord.js를 알게 돼서 봇을 제작했고 음악봇도 깃허브 오픈소스를 이용해서 제작했습니다…. 이게 저의 첫 경험 인 거죠
 
