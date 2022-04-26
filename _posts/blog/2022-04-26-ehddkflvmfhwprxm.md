@@ -13,7 +13,7 @@ categories: blog
 <p align="center">
     <img src="https://ionicframework.com/img/meta/ionic-framework-og.png" style="width: auto; height : 200px;">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--VtIgiqJe--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/d440mmj72v2vi7ad76ir.png" style="width: auto; height : 200px;">
-<p>
+</p>
 웹앱을 하기 위해서 먼저 앱을 개발해야겠다고 생각했지만 시간이 오래 걸릴 거 같아서 ionic이라는 프레임워크를 이용하기로 했습니다.<br>
 ionic는 하이브리드 앱을 만들 수 있는 프레임워크, 즉 웹을 만들면 그걸 앱 내부에 넣어서 웹앱을 만들 수 있습니다.<br>
 이걸 이용하면 앱이랑 웹을 따로 안 만들어도 되고 웹 파일을 따로 들고 와서 웹을 호스팅 할 수 있으니 개발기한이 단축되기 때문에 이걸로 앱을 만들었습니다. 웹을 ionic에서 Vue 프레임워크를 지원하기 때문에 vue.js를 이용해서 만들었습니다.<br>
@@ -22,7 +22,7 @@ ionic는 하이브리드 앱을 만들 수 있는 프레임워크, 즉 웹을 �
 ## 간단한 리뷰
 <p align="center">
     <img src="https://user-images.githubusercontent.com/87979171/165301138-99f07ffd-c5d1-4b5d-ba1c-fc1c1228c382.png" style="width: auto; height : 600px;">
-<p>
+</p>
 그래서 사진을 다 만들었다. 사진을 보면 맨 처음에는 사람들이 많이 보는 학식이랑 학사공지를 뛰어 두고 다른 소식은 다른 페이지에서 볼수있게 
 밑에 버튼을 만들어서 이동할수 있게 했다.<br>
 <br>
@@ -38,7 +38,7 @@ ionic는 하이브리드 앱을 만들 수 있는 프레임워크, 즉 웹을 �
 디자인이 이상하게 되는 생각에 스트레스가 받았는데 디자인을 전문적으로 하는 선배가 와서 디자인 의견을 주었고 그걸 토대로 개발을 계속했었다.<br>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/87979171/165301519-eb21ef29-90c9-4247-aeed-8da787a1edfa.png" style="">
-  <p>
+  </p>
   
 이떄 정말까지는 괜찮게 했다.
 
@@ -52,7 +52,7 @@ ionic는 하이브리드 앱을 만들 수 있는 프레임워크, 즉 웹을 �
 결국 어찌어찌 해서 만들었다. 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/87979171/165301733-3b79d03c-b829-487c-882e-06f71240869c.png" style="">
-  <p>
+  </p>
 
 화면에서는 날씨 시간, 학식,학교 정보 다 때려 넣어서 표시하게 했다.<br>
 <br>
