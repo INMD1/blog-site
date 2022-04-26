@@ -28,8 +28,8 @@ ionic는 하이브리드 앱을 만들 수 있는 프레임워크, 즉 웹을 �
 
 
 그래서 사진을 다 만들었다. 사진을 보면 맨 처음에는 사람들이 많이 보는 학식이랑 학사공지를 뛰어 두고 다른 소식은 다른 페이지에서 볼수있게 
-밑에 버튼을 만들어서 이동할수 있게 했다.
-
+밑에 버튼을 만들어서 이동할수 있게 했다.<br>
+<br>
 > 프로젝트 한번 보려가기: https://github.com/asw-dod/DoD_app_vue_container
 
 <br>
@@ -55,10 +55,12 @@ ionic는 하이브리드 앱을 만들 수 있는 프레임워크, 즉 웹을 �
 
 ## 간단한 리뷰
 결국 어찌어찌 해서 만들었다. 
-    ![image](https://user-images.githubusercontent.com/87979171/165301733-3b79d03c-b829-487c-882e-06f71240869c.png)
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/87979171/165301733-3b79d03c-b829-487c-882e-06f71240869c.png" style="">
+  <p>
 
-화면에서는 날씨 시간, 학식,학교 정보 다 때려 넣어서 표시하게 했다.
-
+화면에서는 날씨 시간, 학식,학교 정보 다 때려 넣어서 표시하게 했다.<br>
+<br>
 > 프로젝트 한번 보려가기: https://github.com/asw-dod/DoD_DashBoard
 
 <br>
