@@ -4,7 +4,7 @@ main:
      url: categories/blog/
 
    - title: "Code"
-     url: categories/code/
+     url: categories/coding/
 
    - title: "Project"
      url:  categories/project/
