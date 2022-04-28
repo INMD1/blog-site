@@ -4,7 +4,10 @@ main:
      url: categories/blog/
 
    - title: "Code"
-     url: categories/code/
+     url: categories/coding/
 
    - title: "Project"
      url:  categories/project/
+
+   - title: "Project"
+     url:  https://amview.powerinmd.com
