@@ -1,10 +1,10 @@
 # main links
 main:
-   - title: "about"
-     url: /about/
-
    - title: "Blog"
      url: categories/blog/
+
+   - title: "Code"
+     url: categories/code/
 
    - title: "Project"
      url:  categories/project/
