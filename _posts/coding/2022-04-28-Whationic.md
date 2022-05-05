@@ -9,7 +9,7 @@ categories: coding
 <!-- 사진 넣기-->
 <br>
 <p align="center">
-    <img src="https://ionicframework.com/img/meta/ionic-framework-og.png" >
+    <img src="https://raw.githubusercontent.com/INMD1/blog-site/4c2311eb978748f9a43f1b171d47d1f23dedd655/assets/image/hybrid.jpg" >
 </p>
 먼저 아니오닉을 알기위해서 하이브리드 웹은 무엇인가에 대해서 간단히 알아보겟습니다 <br>하이브리드 앱은 HTML 랑 CSS , JS를 이용해서 앱을 이용해서 웹앱을 만들수 있게 하는기술입니다. 그래서 안드로이드를 개발할떄 쓰는 코틀린,자바나 애플 ios앱에서 쓰이는 swift를 몰라도 쉽게 앱을 만들수 있는게 장점이죠. 하지만 단점도 있는데 첫번째로는
 하이브리도 앱을 개발시 앱에서 성능을 많이 먹는다는 큰 단점이 있고 2번째로는 개발할떄
